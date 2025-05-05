@@ -1,0 +1,10 @@
+/workspaces/aidoku-readcomiconline/src/rust/en.readcomiconline/target/wasm32-unknown-unknown/debug/deps/gloo_utils-73005aaa0322f9da.d: /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gloo-utils-0.2.0/src/lib.rs /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gloo-utils-0.2.0/src/errors.rs /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gloo-utils-0.2.0/src/iter.rs /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gloo-utils-0.2.0/src/format/json.rs
+
+/workspaces/aidoku-readcomiconline/src/rust/en.readcomiconline/target/wasm32-unknown-unknown/debug/deps/libgloo_utils-73005aaa0322f9da.rlib: /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gloo-utils-0.2.0/src/lib.rs /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gloo-utils-0.2.0/src/errors.rs /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gloo-utils-0.2.0/src/iter.rs /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gloo-utils-0.2.0/src/format/json.rs
+
+/workspaces/aidoku-readcomiconline/src/rust/en.readcomiconline/target/wasm32-unknown-unknown/debug/deps/libgloo_utils-73005aaa0322f9da.rmeta: /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gloo-utils-0.2.0/src/lib.rs /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gloo-utils-0.2.0/src/errors.rs /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gloo-utils-0.2.0/src/iter.rs /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gloo-utils-0.2.0/src/format/json.rs
+
+/home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gloo-utils-0.2.0/src/lib.rs:
+/home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gloo-utils-0.2.0/src/errors.rs:
+/home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gloo-utils-0.2.0/src/iter.rs:
+/home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gloo-utils-0.2.0/src/format/json.rs:
