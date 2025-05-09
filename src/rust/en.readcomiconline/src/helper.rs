@@ -1,6 +1,5 @@
 use aidoku::{
-    error::{AidokuError, AidokuErrorKind}, 
-    Chapter, DeepLink, Filter, Listing, Manga, MangaPageResult, Page
+    std::{error::{AidokuError, AidokuErrorKind}, Chapter, DeepLink, Filter, Listing, Manga, MangaPageResult, Page},
 };
 
 pub fn fetch_manga_list(
