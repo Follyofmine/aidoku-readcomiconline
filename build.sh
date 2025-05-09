@@ -1,18 +1,25 @@
 #!/bin/bash
+
 set -e
 
 source="en_readcomiconline"
-source_dir="src/rust/en.readcomiconline"
-out_dir="src/gh-pages"
+target="wasm32-unknown-unknown"
+out_file="${source}.wasm"
+profile="release"
 
-# Move to source directory
-cd "$source_dir"
+# Compile the source
+echo "Building ${source}..."
+cargo build --release --target $target
 
-# Build WASM
-cargo build --release --target wasm32-unknown-unknown
+# Optimize the output WASM
+wasm-opt -Oz \
+  -o "target/$target/$profile/${out_file}" \
+  "target/$target/$profile/${out_file}"
 
-# Ensure the output directory exists
-mkdir -p "../../$out_dir"
-
-# Copy the wasm file
-cp "target/wasm32-unknown-unknown/release/${source}.wasm" "../../$out_dir/${source}.wasm"
+# Inform the user of the result
+echo -e "\n✅ Build complete!"
+echo "Optimized .wasm located at: target/${target}/${profile}/${out_file}"
+echo -e "👉 Please switch to the 'gh-pages' branch and copy the file manually using:\n"
+echo "   git checkout gh-pages"
+echo "   cp target/${target}/${profile}/${out_file} ."
+echo "   git add ${out_file} && git commit -m 'Update WASM' && git push"
