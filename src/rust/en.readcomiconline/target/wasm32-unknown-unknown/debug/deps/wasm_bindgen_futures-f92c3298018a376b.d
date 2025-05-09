@@ -1,9 +1,0 @@
-/workspaces/aidoku-readcomiconline/src/rust/en.readcomiconline/target/wasm32-unknown-unknown/debug/deps/wasm_bindgen_futures-f92c3298018a376b.d: /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wasm-bindgen-futures-0.4.50/src/lib.rs /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wasm-bindgen-futures-0.4.50/src/queue.rs /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wasm-bindgen-futures-0.4.50/src/task/singlethread.rs
-
-/workspaces/aidoku-readcomiconline/src/rust/en.readcomiconline/target/wasm32-unknown-unknown/debug/deps/libwasm_bindgen_futures-f92c3298018a376b.rlib: /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wasm-bindgen-futures-0.4.50/src/lib.rs /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wasm-bindgen-futures-0.4.50/src/queue.rs /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wasm-bindgen-futures-0.4.50/src/task/singlethread.rs
-
-/workspaces/aidoku-readcomiconline/src/rust/en.readcomiconline/target/wasm32-unknown-unknown/debug/deps/libwasm_bindgen_futures-f92c3298018a376b.rmeta: /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wasm-bindgen-futures-0.4.50/src/lib.rs /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wasm-bindgen-futures-0.4.50/src/queue.rs /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wasm-bindgen-futures-0.4.50/src/task/singlethread.rs
-
-/home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wasm-bindgen-futures-0.4.50/src/lib.rs:
-/home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wasm-bindgen-futures-0.4.50/src/queue.rs:
-/home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wasm-bindgen-futures-0.4.50/src/task/singlethread.rs:

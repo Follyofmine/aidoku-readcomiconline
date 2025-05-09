@@ -1,0 +1,9 @@
+[
+  {
+    "key": "content_rating",
+    "name": "Content Rating",
+    "type": "picker",
+    "default": 0,
+    "values": ["All", "Teen", "Mature"]
+  }
+]

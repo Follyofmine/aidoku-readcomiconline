@@ -1,0 +1,17 @@
+[
+  {
+    "key": "genre",
+    "name": "Genre",
+    "type": "picker",
+    "values": [
+      "Action", "Adventure", "Comedy", "Drama", "Fantasy", "Horror",
+      "Mystery", "Romance", "Sci-Fi", "Slice of Life", "Superhero"
+    ]
+  },
+  {
+    "key": "status",
+    "name": "Status",
+    "type": "picker",
+    "values": ["Ongoing", "Completed"]
+  }
+]
